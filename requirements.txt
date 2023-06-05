@@ -1,8 +1,8 @@
 PyMuPDF
 numpy
 scikit-learn
-tensorflow
+tensorflow>=2.0.0
 tensorflow-hub
-openai
+openai==0.10.2
 gradio
-langchain-serve
+langchain-serve>=0.0.19
